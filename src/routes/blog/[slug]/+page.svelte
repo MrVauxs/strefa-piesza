@@ -3,6 +3,10 @@
 	export let data: PageData;
 </script>
 
+<svelte:head>
+	<title>Strefa Piesza Blog - {data.post.title}</title>
+</svelte:head>
+
 <div>
 	<article>
 		<header>

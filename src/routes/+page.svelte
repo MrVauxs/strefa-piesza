@@ -4,6 +4,10 @@
 	export let data: PageServerData;
 </script>
 
+<svelte:head>
+	<title>Strefa Piesza</title>
+</svelte:head>
+
 <div class="container h-full mx-auto flex justify-center items-center">
 	<ul>
 		{#each data.posts as post}
