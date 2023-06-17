@@ -4,7 +4,7 @@ import rehypeSlug from 'rehype-slug';
 import rehypeAutolinkHeadings from 'rehype-autolink-headings';
 
 const config = defineConfig({
-	extensions: ['.svelte', '.md', '.svx'],
+	extensions: ['.md', '.svx'],
 
 	smartypants: {
 		dashes: 'oldschool'
