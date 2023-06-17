@@ -3,6 +3,7 @@ title: Winić ofiarę?
 date: 2013-06-27T17:33:00.000Z
 description: Blog Post 1 Description
 slug: winic-ofiare
+banner: /images/winapieszego_550.png
 ---
 Policja udostępnia na swojej stronie statystyki wypadków w ruchu drogowym. Według nich w 2012 roku w Polsce zginęło **1152** pieszych, a **9548** zostało rannych. Liczby te budzą grozę, ale zostawmy je na razie i przyjrzymy się dokładniej sprawcom wypadków.
 
@@ -16,9 +17,9 @@ Sprawdziłem starsze statystyki - w poprzednich latach w Polsce też dużo czę�
 
 Najwyraźniej polskiej policji, biegłym i sądom najwygodniej przyjąć wersję kierowcy i zakończyć sprawę. W końcu po co drążyć temat, skoro pieszy i tak nie żyje?
 
-Gdy kolejny raz usłyszycie, że ktoś "wtargnął" na pasy, przypomnijcie sobie jaką wersję przyjęła policja, biegli i sąd, zanim rodzice zabitego nastolatka udowodnili, że ich syn nie mógł biec z prędkością 60 km/h (!).
+Gdy kolejny raz usłyszycie, że ktoś "wtargnął" na pasy, [przypomnijcie sobie jaką wersję przyjęła policja, biegli i sąd, zanim rodzice zabitego nastolatka udowodnili, że ich syn nie mógł biec z prędkością 60 km/h (!).](https://tvn24.pl/polska/dziecko-nie-biega-szybciej-niz-usain-bolt-kierowca-skazany-ra191444-3531503)
 
-Zastanówcie się, czy faktycznie 88-letnia kobieta o kulach może być uznana za sprawcę wypadku, skoro osoby z widoczną niepełnosprawnością mają bezwzględne pierwszeństwo, a kierowca nie tylko nie zwolnił przed przejściem, ale jechał z dużo większą prędkością niż dozwolona.
+[Zastanówcie się, czy faktycznie 88-letnia kobieta o kulach może być uznana za sprawcę wypadku, skoro osoby z widoczną niepełnosprawnością mają bezwzględne pierwszeństwo, a kierowca nie tylko nie zwolnił przed przejściem, ale jechał z dużo większą prędkością niż dozwolona.](https://radom.wyborcza.pl/radom/7,48201,13772357,staruszka-o-kulach-pod-kolami-biegly-winna-wtargnela.html)
 
 Reagujcie na takie sytuacje. Może być tak, że znów komuś nie zależało na tym, żeby to dokładnie sprawdzić. Nie ma nic złego w tym, żeby wymagać od policji rzetelnej pracy! Inaczej przestępcy za kółkiem, będą dalej jeździć po drogach.
 

@@ -54,6 +54,6 @@
 	],
 	"frontMatter.taxonomy.tags": [],
 	"frontMatter.taxonomy.categories": [],
-	"frontMatter.content.publicFolder": "static/images",
+	"frontMatter.content.publicFolder": "[[workspace]]/static/images",
 	"frontMatter.framework.id": "other"
 }

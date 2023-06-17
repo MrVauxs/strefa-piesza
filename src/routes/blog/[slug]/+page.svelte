@@ -7,14 +7,13 @@
 	<title>Strefa Piesza Blog - {data.post.title}</title>
 </svelte:head>
 
-<div>
-	<article>
-		<header>
-			<h1>{data.post.title}</h1>
-		</header>
-		<!-- render the post -->
-		<div>
-			<svelte:component this={data.component} />
-		</div>
-	</article>
-</div>
+<article>
+	<header class="pb-4">
+		<h1 class="h1 mb-0">{data.post.title}</h1>
+		<span class="float-right">Opublikowane {data.post.date}</span>
+	</header>
+	<!-- render the post -->
+	<div>
+		<svelte:component this={data.component} />
+	</div>
+</article>

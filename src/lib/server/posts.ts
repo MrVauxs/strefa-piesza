@@ -18,7 +18,8 @@ export const posts = Object.entries(
 	.map(([filepath, globEntry]) => {
 		return {
 			...globEntry.metadata,
-			slug: parse(filepath).name // generate the slug from the file path
+			slug: parse(filepath).name, // generate the slug from the file path
+			date: new Date(Date.parse(globEntry.metadata.date)).toLocaleDateString('pl')
 		};
 	})
 	// sort by date
