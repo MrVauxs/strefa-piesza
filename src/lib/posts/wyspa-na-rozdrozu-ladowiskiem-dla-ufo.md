@@ -1,6 +1,7 @@
 ---
 title: "Wyspa na Rozdrożu lądowiskiem dla UFO"
 date: "2011-05-16"
+preview: 2011/05/screenshot-50.png
 categories:
   - "wszystko"
 tags:

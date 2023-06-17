@@ -1,13 +1,15 @@
 ---
-title: "Bo zielone było za krótkie"
-date: "2013-07-29"
-categories: 
-  - "wszystko"
-tags: 
-  - "brd"
-  - "dyskryminacja-pieszych"
-  - "piesi"
-  - "policja"
+title: Bo zielone było za krótkie
+preview: 2019/03/zielonedlapieszychczerwonedlaaut_2_250_bigger.gif
+date: 2013-07-29
+categories:
+  - wszystko
+tags:
+  - brd
+  - dyskryminacja-pieszych
+  - piesi
+  - policja
+slug: bo-zielone-bylo-za-krotkie
 ---
 
 Niedawno w prasie pojawiła się [rozmowa z komisarzem Arturem Wilkiem z Wydziału Ruchu Drogowego Komendy Stołecznej Policji](http://warszawa.gazeta.pl/warszawa/1,34862,14308200,Kierowcy_bezkarni_na_czerwonym__Co_na_to_policja_.html?as=1).  W związku z nagraniami przesłanymi od czytelników, na których widać jak kierowcy ignorują czerwone światło, dziennikarz zadał szereg pytań dotyczących bezpieczeństwa pieszych i nieobecności policyjnych patroli na skrzyżowaniu ulic Karolkowej i Kasprzaka w Warszawie. Przypomniał też śmiertelny wypadek do którego doszło tam w styczniu 2013 roku.

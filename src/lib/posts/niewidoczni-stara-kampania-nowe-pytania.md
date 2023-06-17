@@ -1,9 +1,10 @@
 ---
 title: "Niewidoczni - stara kampania, nowe pytania."
+preview: 2011/05/niewidoczni-kampania.jpg
 date: "2011-05-17"
-categories: 
+categories:
   - "wszystko"
-tags: 
+tags:
   - "bezpieczenstwo-pieszych"
   - "dzieci"
   - "kampania-spoleczna"
