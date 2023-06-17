@@ -1,7 +1,11 @@
 {
-	"prettier.documentSelectors": [
-		"**/*.svelte"
-	],
+	"eslint.validate": ["javascript", "javascriptreact", "svelte"],
+	"editor.formatOnType": false,
+	"editor.formatOnPaste": true,
+	"editor.formatOnSaveMode": "file",
+	"files.autoSave": "onFocusChange",
+	"editor.formatOnSave": true,
+	"prettier.documentSelectors": ["**/*.svelte"],
 	"tailwindCSS.classAttributes": [
 		"class",
 		"accent",
