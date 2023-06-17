@@ -7,7 +7,12 @@ const config = defineConfig({
 	extensions: ['.md', '.svx'],
 
 	smartypants: {
-		dashes: 'oldschool'
+		dashes: 'oldschool',
+		ellipses: true
+	},
+
+	layout: {
+		_: 'src/lib/Components/Layout.svelte'
 	},
 
 	remarkPlugins: [],

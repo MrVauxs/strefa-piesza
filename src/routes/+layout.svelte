@@ -1,11 +1,13 @@
 <script lang="ts">
-	import '@skeletonlabs/skeleton/themes/theme-hamlindigo.css';
 	import '@skeletonlabs/skeleton/styles/skeleton.css';
+	import '@skeletonlabs/skeleton/themes/theme-hamlindigo.css';
 	import '../app.postcss';
 
-	import { AppShell, AppBar, LightSwitch } from '@skeletonlabs/skeleton';
 	import Logo from '$lib/Components/Logo.svelte';
+	import { AppBar, AppShell, LightSwitch, Modal } from '@skeletonlabs/skeleton';
 </script>
+
+<Modal />
 
 <AppShell>
 	<svelte:fragment slot="header">
