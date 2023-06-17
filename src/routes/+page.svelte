@@ -1,5 +1,6 @@
 <script lang="ts">
 	import type { PageServerData } from './$types';
+	import Card from '$lib/Components/Card.svelte';
 
 	export let data: PageServerData;
 </script>
@@ -8,21 +9,8 @@
 	<title>Strefa Piesza</title>
 </svelte:head>
 
-<div class="container h-full mx-auto flex justify-center items-center">
+<div class="container h-full mx-auto justify-center items-center columns-4 pt-4">
 	{#each data.posts as post}
-		<a href={`blog/${post.slug}`} class="card card-hover overflow-hidden w-96 h-80">
-			<header class="overflow-clip">
-				<img
-					loading="lazy"
-					src={'images/' + post.preview}
-					alt={post.title}
-					class="w-full aspect-[21/9] object-cover object-top"
-				/>
-			</header>
-			<section class="p-4 h2">{post.title}</section>
-			<footer class="card-footer float-right">
-				{post.date}
-			</footer>
-		</a>
+		<Card {post} />
 	{/each}
 </div>

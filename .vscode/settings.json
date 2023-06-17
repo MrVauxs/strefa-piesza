@@ -8,7 +8,9 @@
 		"*rc.cjs": "${capture}ignore",
 		"svelte.config.js": "postcss.config.cjs, tailwind.config.cjs, vite.config.ts",
 		"tsconfig.json": "tsconfig.*.json",
-		"package.json": "package-lock.json, yarn.lock, pnpm-lock.yaml, .npmrc"
+		"package.json": "package-lock.json, yarn.lock, pnpm-lock.yaml, .npmrc",
+		"+page.svelte": "+page.ts, +page.js, +page.server.ts, +page.server.js",
+		"+layout.svelte": "+layout.ts, +layout.js, +layout.server.ts, +layout.server.js"
 	},
 	"eslint.validate": ["javascript", "javascriptreact", "svelte"],
 	"editor.formatOnType": false,
