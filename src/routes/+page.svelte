@@ -10,11 +10,11 @@
 
 <div class="container h-full mx-auto flex justify-center items-center">
 	{#each data.posts as post}
-		<a href={`blog/${post.slug}`} class="card card-hover overflow-hidden">
+		<a href={`blog/${post.slug}`} class="card card-hover overflow-hidden w-96 h-80">
 			<header class="overflow-clip">
 				<img
 					loading="lazy"
-					src={post.banner}
+					src={'images/' + post.preview}
 					alt={post.title}
 					class="w-full aspect-[21/9] object-cover object-top"
 				/>
