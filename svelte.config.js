@@ -11,7 +11,13 @@ const config = {
 		inspector: true
 	},
 	kit: {
-		adapter: adapter(),
+		adapter: adapter({
+			pages: 'build',
+			assets: 'build',
+			fallback: '404.html',
+			precompress: true,
+			strict: true
+		}),
 		prerender: {
 			handleHttpError: 'warn'
 		}
