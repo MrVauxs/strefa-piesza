@@ -4,6 +4,7 @@
 	import '../app.postcss';
 
 	import { AppShell, AppBar } from '@skeletonlabs/skeleton';
+	import Logo from '$lib/Components/Logo.svelte';
 </script>
 
 <AppShell>
@@ -14,7 +15,7 @@
 					<div class="flex items-center">
 						<button class="btn btn-sm contents select-none">
 							<img src="/sign.svg" alt="Strefa Piesza" class="h-8 icon" draggable={false} />
-							<span>Strefa Piesza</span>
+							<Logo>Strefa Piesza</Logo>
 						</button>
 					</div>
 				</svelte:fragment>
