@@ -12,8 +12,8 @@
 	.waviy span {
 		white-space: pre-wrap;
 		display: inline-block;
-		animation: flip 6s infinite;
-		animation-delay: calc(0.2s * var(--i));
+		animation: flip 8s infinite;
+		animation-delay: calc(0.5s * var(--i));
 	}
 	@keyframes flip {
 		0%,

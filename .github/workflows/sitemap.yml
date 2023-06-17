@@ -1,0 +1,25 @@
+name: Ping Google about Updated Sitemap
+
+on:
+  push:
+    branches: ['gh-pages']
+
+jobs:
+  ping:
+    name: Ping Google
+    runs-on: ubuntu-latest
+
+    steps:
+      - run: echo '' > dummy.txt
+        if: github.ref == 'refs/heads/main'
+      - name: Configure cache
+        id: sitemap-cache
+        uses: actions/cache@v3
+        with:
+          path: dummy.txt
+          key: sitemap-cache-${{ hashFiles('.svelte-kit/output/prerendered/pages/sitemap.xml') }}
+          lookup-only: true
+        if: github.ref == 'refs/heads/main'
+      - name: Notify Google about sitemap update
+        run: curl "https://google.com/ping?sitemap=https://strefapiesza.pl/sitemap.xml"
+        if: steps.sitemap-cache.outputs.cache-hit == 'false'
