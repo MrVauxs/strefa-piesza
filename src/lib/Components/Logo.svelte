@@ -2,21 +2,18 @@
 	let string = 'Strefa Piesza';
 </script>
 
-<body>
-	<div class="waviy">
-		{#each string.split('') as letter, i}
-			<span style="--i:{i + 1}">{letter}</span>
-		{/each}
-	</div>
-</body>
+<div class="waviy">
+	{#each string.split('') as letter, i}
+		<span style="--i:{i + 1}">{letter}</span>
+	{/each}
+</div>
 
 <style lang="scss">
 	.waviy span {
+		white-space: pre-wrap;
 		display: inline-block;
-		color: #fff;
-		text-transform: uppercase;
-		animation: flip 2s infinite;
-		animation-delay: calc(0.1s * var(--i));
+		animation: flip 6s infinite;
+		animation-delay: calc(0.2s * var(--i));
 	}
 	@keyframes flip {
 		0%,
