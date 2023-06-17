@@ -3,6 +3,16 @@
 	import Card from '$lib/Components/Card.svelte';
 
 	export let data: PageServerData;
+
+	function parseDates(date: string) {
+		const array = date.split('.');
+		if (array[2].length === 4) {
+			let intermediateValue = array[0];
+			array[0] = array[2];
+			array[2] = intermediateValue;
+		}
+		return array.join('.');
+	}
 </script>
 
 <svelte:head>
@@ -10,7 +20,7 @@
 </svelte:head>
 
 <div class="container h-full mx-auto justify-center items-center columns-4 pt-4">
-	{#each data.posts as post}
+	{#each data.posts.sort((b, a) => Date.parse(parseDates(a.date)) - Date.parse(parseDates(b.date))) as post}
 		<Card {post} />
 	{/each}
 </div>
