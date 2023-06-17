@@ -31,7 +31,6 @@ jobs:
           npm run build
           touch build/.nojekyll
           echo "strefapiesza.pl" > CNAME
-          npm run postbuild
 
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@releases/v4
