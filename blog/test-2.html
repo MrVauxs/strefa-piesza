@@ -2,18 +2,18 @@
 <html lang="en" class="dark">
 	<head>
 		<meta charset="utf-8" />
-		<link rel="icon" href="./favicon.png" />
+		<link rel="icon" href="../favicon.png" />
 		<meta name="viewport" content="width=device-width" />
 		
-		<link href="./_app/immutable/assets/0.66e2e0b9.css" rel="stylesheet">
-		<link rel="modulepreload" href="./_app/immutable/entry/start.2b0e1ec8.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/index.8ca2cd98.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/singletons.cf7a8f54.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/index.c0964a0a.js">
-		<link rel="modulepreload" href="./_app/immutable/entry/app.40eb8baf.js">
-		<link rel="modulepreload" href="./_app/immutable/chunks/preload-helper.41c905a7.js">
-		<link rel="modulepreload" href="./_app/immutable/nodes/0.a67c455c.js">
-		<link rel="modulepreload" href="./_app/immutable/nodes/2.6076e095.js"><!-- HEAD_svelte-gewkj4_START --><!-- HTML_TAG_START --><script nonce="%sveltekit.nonce%">(function setInitialClassState() {
+		<link href="../_app/immutable/assets/0.66e2e0b9.css" rel="stylesheet">
+		<link rel="modulepreload" href="../_app/immutable/entry/start.2b0e1ec8.js">
+		<link rel="modulepreload" href="../_app/immutable/chunks/index.8ca2cd98.js">
+		<link rel="modulepreload" href="../_app/immutable/chunks/singletons.cf7a8f54.js">
+		<link rel="modulepreload" href="../_app/immutable/chunks/index.c0964a0a.js">
+		<link rel="modulepreload" href="../_app/immutable/entry/app.40eb8baf.js">
+		<link rel="modulepreload" href="../_app/immutable/chunks/preload-helper.41c905a7.js">
+		<link rel="modulepreload" href="../_app/immutable/nodes/0.a67c455c.js">
+		<link rel="modulepreload" href="../_app/immutable/nodes/3.6ef740ae.js"><!-- HEAD_svelte-gewkj4_START --><!-- HTML_TAG_START --><script nonce="%sveltekit.nonce%">(function setInitialClassState() {
   const elemHtmlClasses = document.documentElement.classList;
   const condLocalStorageUserPrefs = localStorage.getItem("modeUserPrefers") === "false";
   const condLocalStorageUserPrefsExists = !("modeUserPrefers" in localStorage);
@@ -57,10 +57,9 @@
 			
 
 			
-			<main id="page-content" class="flex-auto "><div class="container h-full mx-auto flex justify-center items-center"><ul><li><a href="blog/test-1">Blog Post 1</a>
-			</li><li><a href="blog/test-2">Blog Post 2</a>
-			</li><li><a href="blog/test-3">Blog Post 3</a>
-			</li></ul></div></main>
+			<main id="page-content" class="flex-auto "><div><article><header><h1>Blog Post 2</h1></header>
+		
+		<div><p>A dog’s nose is unique, just like the fingerprints of a human.</p></div></article></div></main>
 
 			
 			</div>
@@ -76,20 +75,20 @@
 			<script>
 				{
 					__sveltekit_nzntmf = {
-						base: new URL(".", location).pathname.slice(0, -1),
+						base: new URL("..", location).pathname.slice(0, -1),
 						env: {}
 					};
 
 					const element = document.currentScript.parentElement;
 
-					const data = [null,{"type":"data","data":(function(a){a.title="Blog Post 2";a.date="2077-1-32";a.description="Blog Post 2 Description";a.slug="test-2";return {posts:[{title:"Blog Post 1",date:"2022-11-27",description:"Blog Post 1 Description",slug:"test-1",next:0,previous:a},{title:"Blog Post 2",date:"2077-1-32",description:"Blog Post 2 Description",slug:"test-2",next:{title:"Blog Post 1",date:"2022-11-27",description:"Blog Post 1 Description",slug:"test-1"},previous:{title:"Blog Post 3",date:"1980-05-09",description:"Blog Post 3 Description",slug:"test-3"}},{title:"Blog Post 3",date:"1980-05-09",description:"Blog Post 3 Description",slug:"test-3",next:a,previous:0}]}}({})),"uses":{}}];
+					const data = [null,{"type":"data","data":{post:{title:"Blog Post 2",date:"2077-1-32",description:"Blog Post 2 Description",slug:"test-2",next:{title:"Blog Post 1",date:"2022-11-27",description:"Blog Post 1 Description",slug:"test-1"},previous:{title:"Blog Post 3",date:"1980-05-09",description:"Blog Post 3 Description",slug:"test-3"}}},"uses":{"params":["slug"]}}];
 
 					Promise.all([
-						import("./_app/immutable/entry/start.2b0e1ec8.js"),
-						import("./_app/immutable/entry/app.40eb8baf.js")
+						import("../_app/immutable/entry/start.2b0e1ec8.js"),
+						import("../_app/immutable/entry/app.40eb8baf.js")
 					]).then(([kit, app]) => {
 						kit.start(app, element, {
-							node_ids: [0, 2],
+							node_ids: [0, 3],
 							data,
 							form: null,
 							error: null
