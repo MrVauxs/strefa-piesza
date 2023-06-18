@@ -1,6 +1,7 @@
 ---
 title: Wizja zero w praktyce, czyli jak powinien wyglądać bezpieczny przystanek
 date: 2016-10-18
+preview: /2019/03/przystanekautobusowywysepka_620.jpg
 categories:
   - wszystko
 tags:

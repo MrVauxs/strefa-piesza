@@ -60,6 +60,10 @@
     {
       "title": "posts",
       "path": "[[workspace]]/src/lib/posts"
+    },
+    {
+      "title": "images",
+      "path": "[[workspace]]/static/images"
     }
   ],
   "frontMatter.taxonomy.tags": [],

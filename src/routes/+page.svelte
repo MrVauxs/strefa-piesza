@@ -20,7 +20,9 @@
 </svelte:head>
 
 <div class="container h-full mx-auto justify-center items-center columns-4 pt-4">
-	{#each data.posts.sort((b, a) => Date.parse(parseDates(a.date)) - Date.parse(parseDates(b.date))) as post}
+	{#each data.posts
+		.filter((d) => !d.draft)
+		.sort((b, a) => Date.parse(parseDates(a.date)) - Date.parse(parseDates(b.date))) as post}
 		<Card {post} />
 	{/each}
 </div>

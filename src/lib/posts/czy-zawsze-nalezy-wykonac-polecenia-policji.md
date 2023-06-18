@@ -1,9 +1,10 @@
 ---
 title: "Czy zawsze należy wykonać polecenia policji?"
 date: "2018-04-20"
-categories: 
+preview: 2018/04/pociulsic499zatrzymuje.png
+categories:
   - "wszystko"
-tags: 
+tags:
   - "kierowany"
   - "pierwszenstwo"
   - "piesi"

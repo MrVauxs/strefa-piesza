@@ -1,8 +1,9 @@
 ---
-title: "Powitanie"
-date: "2011-05-16"
-categories: 
-  - "wszystko"
+title: Powitanie
+date: 2011-05-16
+categories:
+  - wszystko
+draft: true
 ---
 
 ### Witam na blogu Strefa Piesza!![DDP](resources/Znak_C16_200.jpg "Droga dla pieszych (znak)")
