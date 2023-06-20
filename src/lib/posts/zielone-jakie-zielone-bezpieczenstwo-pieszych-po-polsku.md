@@ -1,16 +1,18 @@
 ---
-title: "Zielone? Jakie zielone! Bezpieczeństwo pieszych po polsku"
-date: "2012-12-28"
-categories: 
-  - "wszystko"
-tags: 
-  - "bezpieczenstwo-ruchu-drogowego"
-  - "brd"
-  - "dziecko"
-  - "piesi"
-  - "piesza"
-  - "potracenie"
-  - "wypadek"
+title: Zielone? Jakie zielone! Bezpieczeństwo pieszych po polsku
+date: 2012-12-28
+preview: 2019/07/pexels-photo-442584.jpeg
+categories:
+  - wszystko
+tags:
+  - bezpieczenstwo-ruchu-drogowego
+  - brd
+  - dziecko
+  - piesi
+  - piesza
+  - potracenie
+  - wypadek
+slug: zielone-jakie-zielone-bezpieczenstwo-pieszych-po-polsku
 ---
 
 ![](https://strefapiesza.files.wordpress.com/2019/07/pexels-photo-442584.jpeg)
@@ -35,7 +37,7 @@ _Policja:  W tej sytuacji, kiedy nastolatka została określona jako sprawca wy
 
 Skoro mamy trzymać się przepisów, oto odpowiedni fragment rozporządzenia o sygnałach i znakach (wytłuszczenia moje):
 
-> _§ 98. 2. Sygnały świetlne dla pieszych nadawane przez sygnalizator S-5 oznaczają:_  
+> _§ 98. 2. Sygnały świetlne dla pieszych nadawane przez sygnalizator S-5 oznaczają:_
 > _1) sygnał zielony - **zezwolenie na wejście na przejście** dla pieszych, przy czym sygnał zielony migający oznacza,_ _że za chwilę zapali się sygnał czerwony i pieszy jest obowiązany **jak najszybciej** opuścić przejście,_
 
 Jak widać migające zielone światło dla pieszych to wciąż jest zielone światło dla pieszych. Dodam, że nawet z zachętą do przebiegania - w końcu dodano "jak najszybciej". Podsumowując - dziewczynka nie złamała przepisów.
@@ -43,7 +45,7 @@ Jak widać migające zielone światło dla pieszych to wciąż jest zielone świ
 Za to przepis dotyczący kierowców jest taki:
 
 > _§ 96. 1. Nadawany przez sygnalizator S-2 sygnał czerwony wraz z sygnałem w kształcie zielonej strzałki_ _oznacza, że dozwolone jest skręcanie w kierunku wskazanym strzałką w najbliższą jezdnię na skrzyżowaniu,_ _z zastrzeżeniem ust. 3._
-> 
+>
 > _3\. Skręcanie lub zawracanie, o których mowa w ust. 1 i 2, jest dozwolone pod warunkiem, że **kierujący**_ _**zatrzyma się przed sygnalizatorem i nie spowoduje utrudnienia ruchu innym jego uczestnikom.**_
 
 Kierująca nie zatrzymała się i - mówiąc bardzo delikatnie - spowodowała utrudnienie ruchu pieszej. Zwlekała z wezwaniem policji. Podsumowując: złamała przepisy.
