@@ -19,11 +19,13 @@
 	<title>Strefa Piesza</title>
 </svelte:head>
 
-<div class="container h-full mx-auto justify-center items-center columns-xs">
+<div class="container flex flex-row flex-wrap justify-center">
 	{#each data.posts
 		.filter((d) => !d.draft)
 		.filter((d) => d.preview) // Only with images
 		.sort((b, a) => Date.parse(parseDates(a.date)) - Date.parse(parseDates(b.date))) as post}
-		<Card {post} />
+		<div class="basis-1/4">
+			<Card {post} />
+		</div>
 	{/each}
 </div>

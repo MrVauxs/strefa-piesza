@@ -11,25 +11,27 @@
 
 <AppShell>
 	<svelte:fragment slot="pageHeader">
-		<div class="bg-surface-100-800-token shadow-xl mb-2">
-			<AppBar class="container">
-				<svelte:fragment slot="lead">
-					<a href="/">
-						<div class="flex items-center">
-							<img
-								src="/sign.svg"
-								alt="Strefa Piesza"
-								class="mx-2 mr-6 h-8 icon"
-								draggable={false}
-							/>
-							<span class="h2"><Logo /></span>
-						</div>
-					</a>
-				</svelte:fragment>
-				<svelte:fragment slot="trail">
-					<LightSwitch />
-				</svelte:fragment>
-			</AppBar>
+		<div class="bg-[url('banner.webp')] w-full bg-cover shadow-xl mb-2">
+			<div class="bg-gradient-to-r from-surface-800 from-15% to-transparent">
+				<AppBar class="container" background="">
+					<svelte:fragment slot="lead">
+						<a href="/">
+							<div class="flex items-center">
+								<img
+									src="/sign.svg"
+									alt="Strefa Piesza"
+									class="mx-2 mr-6 h-8 icon"
+									draggable={false}
+								/>
+								<span class="h2"><Logo /></span>
+							</div>
+						</a>
+					</svelte:fragment>
+					<svelte:fragment slot="trail">
+						<LightSwitch />
+					</svelte:fragment>
+				</AppBar>
+			</div>
 		</div>
 	</svelte:fragment>
 
