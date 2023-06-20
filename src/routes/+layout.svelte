@@ -11,9 +11,9 @@
 
 <AppShell>
 	<svelte:fragment slot="pageHeader">
-		<div class="bg-[url('/banner.webp')] w-full bg-cover shadow-xl mb-2 h-96">
-			<div class="bg-gradient-to-r from-surface-800 from-15% to-transparent h-96">
-				<AppBar class="container h-96 flex justify-center" background="">
+		<div class="bg-[url('/banner.webp')] w-full bg-cover shadow-xl mb-2 h-24 md:h-48 lg:h-96">
+			<div class="bg-gradient-to-r from-surface-800 from-15% to-transparent h-full">
+				<AppBar class="container h-full flex justify-center" background="">
 					<svelte:fragment slot="lead">
 						<a href="/">
 							<div class="flex items-center">
@@ -23,12 +23,14 @@
 									class="mx-2 mr-6 h-8 icon"
 									draggable={false}
 								/>
-								<span class="h2"><Logo /></span>
+								<span class="h2 text-white"><Logo /></span>
 							</div>
 						</a>
 					</svelte:fragment>
 					<svelte:fragment slot="trail">
-						<LightSwitch />
+						<div class="drop-shadow-xl btn btn-sm">
+							<LightSwitch />
+						</div>
 					</svelte:fragment>
 				</AppBar>
 			</div>
