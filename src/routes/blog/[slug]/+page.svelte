@@ -4,7 +4,7 @@
 </script>
 
 <svelte:head>
-	<title>Strefa Piesza Blog - {data.post.title}</title>
+	<title>{data.post.title} - Strefa Piesza</title>
 </svelte:head>
 
 <article>
