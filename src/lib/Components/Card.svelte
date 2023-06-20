@@ -13,7 +13,7 @@
 	<div
 		class="backdrop-blur-md bg-sky-900/50 text-white bottom-0 absolute w-full backdrop-grayscale"
 	>
-		<section class="p-4 h3">{post.title}</section>
+		<section class="p-4 h4">{post.title}</section>
 		<footer class="card-footer text-right">
 			{post.date ?? 'What'}
 		</footer>
