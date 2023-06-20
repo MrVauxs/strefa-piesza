@@ -10,7 +10,7 @@ tags:
   - piesi
   - policja
   - wypadek
-preview: /2014/12/z17189131ihpolicjantki-niemal-potracily-starsza-kobiete-na-pa.jpg
+preview: 2014/12/z17189131ihpolicjantki-niemal-potracily-starsza-kobiete-na-pa.jpg
 slug: kto-ochroni-pieszych-przed-policja
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Opinia dotycząca projektu zmian w PoRD
+preview: 2019/03/paragraf.png
 date: 2014-07-23
 categories:
   - wszystko

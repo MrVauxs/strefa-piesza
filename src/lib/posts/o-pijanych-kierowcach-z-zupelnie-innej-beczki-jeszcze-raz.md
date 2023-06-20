@@ -1,5 +1,6 @@
 ---
 title: O pijanych kierowcach z zupełnie innej beczki. Jeszcze raz.
+preview: 2019/03/drunkdriving1469251_250x250.jpg
 date: 2015-10-31
 categories:
   - wszystko

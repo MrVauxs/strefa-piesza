@@ -1,7 +1,7 @@
 ---
 title: Komunikat kampanii Weekend bez Ofiar
 date: 2011-06-22
-preview: images/2019/03/komunikat.jpg
+preview: 2019/03/komunikat.jpg
 categories:
   - wszystko
 slug: komunikat-kampanii-weekend-bez-ofiar

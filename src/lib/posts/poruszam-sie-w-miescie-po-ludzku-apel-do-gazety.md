@@ -1,5 +1,6 @@
 ---
 title: Poruszam się w mieście - po ludzku. Apel do gazety
+preview: 2019/03/a7.jpg
 date: 2014-06-10
 categories:
   - wszystko

@@ -1,5 +1,6 @@
 ---
 title: Uwaga! Nowe zadanie!
+preview: 2015/03/nowezadanie.png
 date: 2015-03-12
 categories:
   - wszystko

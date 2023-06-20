@@ -1,6 +1,7 @@
 ---
 title: Segregacja czy integracja?
 date: 2015-02-11
+preview: 2019/03/segregacja_integracja640.jpg
 tags:
   - bezpieczenstwo
   - dzieci

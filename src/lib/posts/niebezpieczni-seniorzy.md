@@ -1,5 +1,6 @@
 ---
 title: (Nie)bezpieczni seniorzy
+preview: 2019/03/wp_20130922_002.jpg
 date: 2016-12-20
 categories:
   - wszystko

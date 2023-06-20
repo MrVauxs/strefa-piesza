@@ -1,6 +1,7 @@
 ---
 title: Już my was ochronimy
 date: 2014-08-29
+preview: 2019/03/krbrd_przestawione_tabelki.png
 categories:
   - wszystko
 slug: juz-ochronimy

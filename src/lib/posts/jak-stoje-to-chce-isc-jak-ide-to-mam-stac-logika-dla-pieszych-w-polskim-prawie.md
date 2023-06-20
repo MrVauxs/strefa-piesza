@@ -1,5 +1,6 @@
 ---
 title: Jak stoję, to chcę iść, jak idę, to mam stać. Logika dla pieszych w polskim prawie.
+preview: 2013/09/il_fullxfull.402886681_4m08.jpg
 date: 2013-09-26
 categories:
   - wszystko

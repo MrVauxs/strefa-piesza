@@ -1,7 +1,7 @@
 ---
 title: Efekty uboczne grodzenia osiedli
 date: 2011-08-11
-preview: /images/2019/03/fence.jpg
+preview: 2019/03/fence.jpg
 categories:
   - wszystko
 tags:

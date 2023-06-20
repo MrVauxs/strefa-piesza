@@ -1,5 +1,6 @@
 ---
 title: Prawdziwe pierwszeństwo dla pieszych. Nareszcie!
+preview: 2019/03/crossing626641m.jpg
 date: 2014-04-14
 categories:
   - wszystko

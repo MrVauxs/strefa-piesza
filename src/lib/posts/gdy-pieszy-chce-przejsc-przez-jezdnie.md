@@ -12,6 +12,7 @@ tags:
   - wypadki
   - zebra
 slug: gdy-pieszy-chce-przejsc-przez-jezdnie
+preview: 2019/03/866311_predestrian_lights.jpg
 ---
 
 W Warszawie, w 2011 roku zginęło w wypadkach 56 pieszych. [51 spośród nich (ponad 90%) zginęło z winy kierowców na wyznaczonym przejściu dla pi](http://www.tvnwarszawa.pl/informacje,news,gina-glownie-piesi,45668.html)[eszych!](http://www.tvnwarszawa.pl/informacje,news,gina-glownie-piesi,45668.html)
