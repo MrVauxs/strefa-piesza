@@ -2,7 +2,6 @@
 title: Winić ofiarę?
 date: "2013-06-27"
 slug: winic-ofiare
-preview: /winapieszego_550.png
 tags:
   - "brd"
   - "pieszy"

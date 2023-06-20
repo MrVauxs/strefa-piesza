@@ -19,9 +19,10 @@
 	<title>Strefa Piesza</title>
 </svelte:head>
 
-<div class="container h-full mx-auto justify-center items-center columns-4 pt-4">
+<div class="container h-full mx-auto justify-center items-center columns-xs">
 	{#each data.posts
 		.filter((d) => !d.draft)
+		.filter((d) => d.preview) // Only with images
 		.sort((b, a) => Date.parse(parseDates(a.date)) - Date.parse(parseDates(b.date))) as post}
 		<Card {post} />
 	{/each}

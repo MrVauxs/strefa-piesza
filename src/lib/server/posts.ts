@@ -11,6 +11,7 @@ export interface Post {
 	date: string;
 	slug: string;
 	preview: string;
+	draft: boolean;
 }
 
 // Get all posts and add metadata

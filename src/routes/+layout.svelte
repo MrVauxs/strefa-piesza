@@ -10,8 +10,8 @@
 <Modal />
 
 <AppShell>
-	<svelte:fragment slot="header">
-		<div class="bg-surface-100-800-token shadow-xl">
+	<svelte:fragment slot="pageHeader">
+		<div class="bg-surface-100-800-token shadow-xl mb-2">
 			<AppBar class="container">
 				<svelte:fragment slot="lead">
 					<a href="/">

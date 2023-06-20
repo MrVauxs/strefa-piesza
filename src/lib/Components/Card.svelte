@@ -3,19 +3,19 @@
 	export let post: Post;
 </script>
 
-<div class="flex">
-	<a href={`blog/${post.slug}`} class="card card-hover overflow-hidden w-96 h-80 m-0.5">
-		<header class="overflow-clip">
-			<img
-				loading="lazy"
-				src={'images/' + post.preview}
-				alt={post.title}
-				class="w-full aspect-[21/9] object-cover object-top"
-			/>
-		</header>
-		<section class="p-4 h2">{post.title}</section>
-		<footer class="card-footer float-right">
-			{post.date}
+<a href={`blog/${post.slug}`} class="block relative card card-hover w-96 h-80 overflow-hidden">
+	<img
+		loading="lazy"
+		src={'images/' + post.preview}
+		alt={post.title}
+		class="absolute h-80 w-96 object-cover object-top overflow-hidden"
+	/>
+	<div
+		class="backdrop-blur-md bg-sky-900/50 text-white bottom-0 absolute w-full backdrop-grayscale"
+	>
+		<section class="p-4 h3">{post.title}</section>
+		<footer class="card-footer text-right">
+			{post.date ?? 'What'}
 		</footer>
-	</a>
-</div>
+	</div>
+</a>
