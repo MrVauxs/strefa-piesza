@@ -1,14 +1,15 @@
 ---
-title: "Zapomniana inicjatywa Zarządu Dróg Miejskich"
+title: Zapomniana inicjatywa Zarządu Dróg Miejskich
 preview: 2019/03/przejscie222.jpg
-date: "2011-05-25"
+date: 2011-05-25
 categories:
-  - "wszystko"
+  - wszystko
 tags:
-  - "bezpieczenstwo-pieszych"
-  - "chronmy-pieszych"
-  - "pord"
-  - "zdm"
+  - bezpieczenstwo-pieszych
+  - chronmy-pieszych
+  - pord
+  - zdm
+slug: zapomniana-inicjatywa-zarzadu-drog-miejskich
 ---
 
 ![](https://strefapiesza.files.wordpress.com/2019/03/przejscie222.jpg?w=222)

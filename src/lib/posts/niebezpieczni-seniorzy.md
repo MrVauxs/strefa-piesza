@@ -1,12 +1,13 @@
 ---
-title: "(Nie)bezpieczni seniorzy"
-date: "2016-12-20"
-categories: 
-  - "wszystko"
-tags: 
-  - "brd"
-  - "piesi"
-  - "seniorzy"
+title: (Nie)bezpieczni seniorzy
+date: 2016-12-20
+categories:
+  - wszystko
+tags:
+  - brd
+  - piesi
+  - seniorzy
+slug: nie-bezpieczni-seniorzy
 ---
 
 12 grudnia wystartowała policyjna akcja "Dojrzały pieszy". Jak dowiadujemy się z tvnwarszawa: "Są to głównie spotkania organizowane np. w Uniwersytecie III Wieku albo w domach opieki społecznej - mówi Rafał Retmaniak z komendy stołecznej.""Na spotkaniach policjanci przypominają o tych prawidłowych zachowaniach i niebezpieczeństwach – podkreśla i dodaje, że te często biorą się z nieprawidłowego przechodzenia przez jezdnię. - Często w miejscach nieoznaczonych. Tam, gdzie kiedyś były przejścia, po zmianie infrastruktury zostały przeniesione, a ludzie nadal chodzą na pamięć - wyjaśnia Retmaniak." "Jednocześnie podkreślają, że osoby starsze często mają nie tylko dużą wiedzę, ale też doświadczenie życiowe, które sprawia, że są rozważnymi i świadomymi uczestnikami ruchu."![WP_20130922_002](https://strefapiesza.files.wordpress.com/2019/03/wp_20130922_002.jpg)

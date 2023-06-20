@@ -1,8 +1,10 @@
 ---
-title: "Komunikat kampanii Weekend bez Ofiar"
-date: "2011-06-22"
-categories: 
-  - "wszystko"
+title: Komunikat kampanii Weekend bez Ofiar
+date: 2011-06-22
+preview: images/2019/03/komunikat.jpg
+categories:
+  - wszystko
+slug: komunikat-kampanii-weekend-bez-ofiar
 ---
 
 Odcinek o dyskryminacji pieszych za pomocą infrastruktury zostanie nadany w innym terminie. Przegrał czas antenowy z dyskryminacją niechronionych uczestników ruchu drogowego za pomocą Komunikatu kampanii Narodowy Eksperyment Bezpieczeństwa – Weekend bez Ofiar.

@@ -1,13 +1,14 @@
 ---
-title: "Jak stoję, to chcę iść, jak idę, to mam stać. Logika dla pieszych w polskim prawie."
-date: "2013-09-26"
-categories: 
-  - "wszystko"
-tags: 
-  - "pierwszenstwo"
-  - "pieszy"
-  - "pord"
-  - "przejscie-dla-pieszych"
+title: Jak stoję, to chcę iść, jak idę, to mam stać. Logika dla pieszych w polskim prawie.
+date: 2013-09-26
+categories:
+  - wszystko
+tags:
+  - pierwszenstwo
+  - pieszy
+  - pord
+  - przejscie-dla-pieszych
+slug: jak-stoje-chce-isc-jak-ide-mam-stac-logika-dla-pieszych-polskim-prawie
 ---
 
 ![DSC_8383](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuaVd3AItljBgwOEH_ef56LMvVtK-lpEa6PgrMKnZ-BOYBZrV_)

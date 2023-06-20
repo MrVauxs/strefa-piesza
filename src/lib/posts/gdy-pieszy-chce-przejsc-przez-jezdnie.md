@@ -1,16 +1,17 @@
 ---
-title: "Gdy pieszy chce przejść przez jezdnię..."
-date: "2012-05-29"
-categories: 
-  - "wszystko"
-tags: 
-  - "pasy"
-  - "pierwszenstwo"
-  - "piesi"
-  - "pieszy"
-  - "przejscie-dla-pieszych"
-  - "wypadki"
-  - "zebra"
+title: Gdy pieszy chce przejść przez jezdnię...
+date: 2012-05-29
+categories:
+  - wszystko
+tags:
+  - pasy
+  - pierwszenstwo
+  - piesi
+  - pieszy
+  - przejscie-dla-pieszych
+  - wypadki
+  - zebra
+slug: gdy-pieszy-chce-przejsc-przez-jezdnie
 ---
 
 W Warszawie, w 2011 roku zginęło w wypadkach 56 pieszych. [51 spośród nich (ponad 90%) zginęło z winy kierowców na wyznaczonym przejściu dla pi](http://www.tvnwarszawa.pl/informacje,news,gina-glownie-piesi,45668.html)[eszych!](http://www.tvnwarszawa.pl/informacje,news,gina-glownie-piesi,45668.html)

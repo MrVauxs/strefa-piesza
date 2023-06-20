@@ -1,14 +1,16 @@
 ---
-title: "Dyskryminacja pieszych w Polsce"
-date: "2011-06-07"
-categories: 
-  - "wszystko"
-tags: 
-  - "akcje-policyjne"
-  - "chronmy-pieszych"
-  - "dyskryminacja-pieszych"
-  - "niechronieni"
-  - "piesi"
+title: Dyskryminacja pieszych w Polsce
+date: 2011-06-07
+preview: 2011/06/krakc3b3wprzejc59bcie.png
+categories:
+  - wszystko
+tags:
+  - akcje-policyjne
+  - chronmy-pieszych
+  - dyskryminacja-pieszych
+  - niechronieni
+  - piesi
+slug: dyskryminacja-pieszych-polsce
 ---
 
 ![](resources/240pxZnak_C16a.svg.png)

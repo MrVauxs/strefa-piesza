@@ -1,14 +1,15 @@
 ---
-title: "Czy zawsze należy wykonać polecenia policji?"
-date: "2018-04-20"
+title: Czy zawsze należy wykonać polecenia policji?
+date: 2018-04-20
 preview: 2018/04/pociulsic499zatrzymuje.png
 categories:
-  - "wszystko"
+  - wszystko
 tags:
-  - "kierowany"
-  - "pierwszenstwo"
-  - "piesi"
-  - "ruch"
+  - kierowany
+  - pierwszenstwo
+  - piesi
+  - ruch
+slug: czy-zawsze-nalezy-wykonac-polecenia-policji
 ---
 
 W internecie krąży bulwersujący krótki film pokazujący prawidłowe zachowanie kierowcy i błędną ocenę sytuacji przez policjanta.

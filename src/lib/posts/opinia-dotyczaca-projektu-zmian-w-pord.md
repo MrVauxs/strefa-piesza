@@ -1,8 +1,9 @@
 ---
-title: "Opinia dotycząca projektu zmian w PoRD"
-date: "2014-07-23"
-categories: 
-  - "wszystko"
+title: Opinia dotycząca projektu zmian w PoRD
+date: 2014-07-23
+categories:
+  - wszystko
+slug: opinia-dotyczaca-projektu-zmian-pord
 ---
 
 W sejmie wciąż krąży "pieszy" projekt zmian w prawie o ruchu drogowym z 13 września 2013. [Omawiałem go już wcześniej na łamach bloga](http://strefapiesza.blox.pl/2013/09/Jak-stoje-to-chce-isc-jak-ide-to-mam-stac-Logika.html). Oryginał wraz z uzasadnieniem znajduje się [na stronie sejmu.](http://orka.sejm.gov.pl/Druki7ka.nsf/0/411C9D61B2DA9C10C1257C13002A8C14/$File/1859.pdf) 

@@ -11,6 +11,7 @@ tags:
   - policja
   - wypadek
 preview: /2014/12/z17189131ihpolicjantki-niemal-potracily-starsza-kobiete-na-pa.jpg
+slug: kto-ochroni-pieszych-przed-policja
 ---
 
 Traktowanie pieszych w Polsce pozostawia wiele do życzenia. Jednak dzisiejsze [doniesienie z prasy - nagranie](http://wiadomosci.gazeta.pl/wiadomosci/1,114871,17189111,Policjantka_niemal_potracila_starsza_kobiete_na_pasach_.html?lokale=warszawa#BoxWiadTxt), w którym kierująca pojazdem z premedytacją zjeżdża ze swojego pasa ruchu, żeby przestraszyć/potrącić (!?) pieszą, która powoli schodziła z przejścia dla pieszych - szokuje. A szok jest tym większy, że kierującą była policjantka na służbie, w służbowym radiowozie.

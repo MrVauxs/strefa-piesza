@@ -1,14 +1,16 @@
 ---
-title: "Efekty uboczne grodzenia osiedli"
-date: "2011-08-11"
-categories: 
-  - "wszystko"
-tags: 
-  - "infrastruktura-miejska"
-  - "osiedla-grodzone"
-  - "osiedla-zamkniete"
-  - "piesi"
-  - "ruch-pieszy"
+title: Efekty uboczne grodzenia osiedli
+date: 2011-08-11
+preview: /images/2019/03/fence.jpg
+categories:
+  - wszystko
+tags:
+  - infrastruktura-miejska
+  - osiedla-grodzone
+  - osiedla-zamkniete
+  - piesi
+  - ruch-pieszy
+slug: efekty-uboczne-grodzenia-osiedli
 ---
 
 ![fence](https://strefapiesza.files.wordpress.com/2019/03/fence.jpg)Kształt miejskiej infrastruktury dla pieszych zależy nie tylko od władz miasta. Przyjrzyj się swojemu najbliższemu otoczeniu, temu co znajduje się tuż przy Twoim budynku. Czy widzisz mury i kraty? Jeśli tak, to wcale nie musi oznaczać, że jesteś w więzieniu, być może widzisz osiedle grodzone :-)

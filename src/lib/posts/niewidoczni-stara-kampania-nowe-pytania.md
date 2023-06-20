@@ -1,15 +1,16 @@
 ---
-title: "Niewidoczni - stara kampania, nowe pytania."
+title: Niewidoczni - stara kampania, nowe pytania.
 preview: 2011/05/niewidoczni-kampania.jpg
-date: "2011-05-17"
+date: 2011-05-17
 categories:
-  - "wszystko"
+  - wszystko
 tags:
-  - "bezpieczenstwo-pieszych"
-  - "dzieci"
-  - "kampania-spoleczna"
-  - "niewidoczni"
-  - "piesi"
+  - bezpieczenstwo-pieszych
+  - dzieci
+  - kampania-spoleczna
+  - niewidoczni
+  - piesi
+slug: niewidoczni-stara-kampania-nowe-pytania
 ---
 
 W 2009 roku prowadzono kampanię na rzecz poprawy bezpieczeństwa pieszych. Poniżej przypominam spot, który pojawiał się w telewizji. Proszę, zwróćcie szczególną uwage na to co się dzieje na filmie między 0:58 a 1:10

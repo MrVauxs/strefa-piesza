@@ -1,15 +1,16 @@
 ---
-title: "Prawdziwe pierwszeństwo dla pieszych. Nareszcie!"
-date: "2014-04-14"
-categories: 
-  - "wszystko"
-tags: 
-  - "brd"
-  - "pierwszenstwo-pieszych"
-  - "piesi"
-  - "przejscie-dla-pieszych"
-  - "ruch-drogowy"
-  - "zebra"
+title: Prawdziwe pierwszeństwo dla pieszych. Nareszcie!
+date: 2014-04-14
+categories:
+  - wszystko
+tags:
+  - brd
+  - pierwszenstwo-pieszych
+  - piesi
+  - przejscie-dla-pieszych
+  - ruch-drogowy
+  - zebra
+slug: prawdziwe-pierwszenstwo-dla-pieszych-nareszcie
 ---
 
 Rząd przychylnie zaopiniował poselski projekt zmiany prawa o ruchu drogowym, według którego pieszy **zamierzający** przejść przez jezdnię będzie miał pierwszeństwo!

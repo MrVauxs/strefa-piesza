@@ -1,15 +1,16 @@
 ---
-title: "Poruszam się w mieście - po ludzku. Apel do gazety"
-date: "2014-06-10"
-categories: 
-  - "wszystko"
-tags: 
-  - "bezpieczenstwo-na-drogach"
-  - "brd"
-  - "gazeta"
-  - "korki"
-  - "piesi"
-  - "warszawa"
+title: Poruszam się w mieście - po ludzku. Apel do gazety
+date: 2014-06-10
+categories:
+  - wszystko
+tags:
+  - bezpieczenstwo-na-drogach
+  - brd
+  - gazeta
+  - korki
+  - piesi
+  - warszawa
+slug: poruszam-sie-miescie-po-ludzku-apel-gazety
 ---
 
 Droga Gazeto.pl Warszawa, [pytacie czytelników o to, gdzie są największe korki.](http://warszawa.gazeta.pl/warszawa/1,34862,16119839,Czytelnicy_wyliczaja__gdzie_sa_uciazliwe_korki_w_Warszawie.html) Rozwiązania proponowane przez czytelników są przewidywalne - tu należy zrobić estakadę, tam należy zrobić dodatkowy pas ruchu, jeszcze gdzie indziej drugi pas do prawoskrętu. I zostawiacie to bez komentarza. W artykule obok piszecie za to o [wypadku w alei KEN, gdzie zabito na pasach 2,5 latka](http://warszawa.gazeta.pl/warszawa/1,34862,16126514,Tam__gdzie_zginal_2_5_latek__walcza_o_swiatla_od_4.html#LokWawTxt). I piszecie, że czytelnicy zgłaszają, że ulica jest za szeroka, że miejscami ma autostradowe, długie pasy do skrętów i zachęca do szybkiej jazdy.

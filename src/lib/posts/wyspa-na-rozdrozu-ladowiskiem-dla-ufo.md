@@ -1,14 +1,15 @@
 ---
-title: "Wyspa na Rozdrożu lądowiskiem dla UFO"
-date: "2011-05-16"
-preview: /2011/05/screenshot-50.png
+title: Wyspa na Rozdrożu lądowiskiem dla UFO
+date: 2011-05-16
+preview: 2011/05/screenshot-50.png
 categories:
-  - "wszystko"
+  - wszystko
 tags:
-  - "plac-na-rozdrozu"
-  - "przejscia-podziemne"
-  - "przestrzen-publiczna"
-  - "warszawa"
+  - plac-na-rozdrozu
+  - przejscia-podziemne
+  - przestrzen-publiczna
+  - warszawa
+slug: wyspa-na-rozdrozu-ladowiskiem-dla-ufo
 ---
 
 Kolektyw artystyczny [EXYZT chce przekształcić okolicę fontanny z Placu na Rozdrożu w przestrzeń publiczną](http://warszawa.gazeta.pl/warszawa/1,34862,9608510,Kosmiczny_pomysl__na_placu_Na_Rozdrozu_wyladuje_UFO.html) zachęcającą do przebywania w niej. I dobrze!

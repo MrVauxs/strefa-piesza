@@ -1,15 +1,17 @@
 ---
-title: "Nie róbmy polityki, budujmy chodniki!"
-date: "2013-06-12"
-categories: 
-  - "wszystko"
-tags: 
-  - "bezpieczenstwo"
-  - "chodnik"
-  - "kamizelki"
-  - "odblaski"
-  - "piesi"
-  - "pord"
+title: Nie róbmy polityki, budujmy chodniki!
+date: 2013-06-12
+preview: 2019/03/nierobmypolityki_640.jpg
+categories:
+  - wszystko
+tags:
+  - bezpieczenstwo
+  - chodnik
+  - kamizelki
+  - odblaski
+  - piesi
+  - pord
+slug: nie-robmy-polityki-budujmy-chodniki
 ---
 
 [Sejmowa komisja **infrastruktury** chce zadbać o bezpieczeństwo pieszych przez nałożenie na nich obowiązku chodzenia w kamizelkach odblaskowych (po zmroku, poza terenem zabudowanym)](http://moto.wp.pl/kat,55194,title,Poslowie-zdecyduja-o-obowiazku-noszenia-kamizelek-odblaskowych,wid,15726011,wiadomosc.html?ticaid=110c1e&_ticrsn=3). Brak kamizelki mógłby skutkować mandatem do 3000 zł. Ten pomysł ma mnóstwo wad, więc chciałbym komisji zaproponować lepsze, bardziej adekwatne do jej zadań rozwiązanie. Jeśli chcemy faktycznie poprawić bezpieczeństwo pieszych, wystarczy zadbać o to, żeby nie chodzili poboczem. Jak to osiągnąć? Wystarczy obok drogi wybudować chodnik. Porównajmy rozwiązania:

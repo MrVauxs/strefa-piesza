@@ -1,16 +1,17 @@
 ---
-title: "O pijanych kierowcach z zupełnie innej beczki. Jeszcze raz."
-date: "2015-10-31"
-categories: 
-  - "wszystko"
-tags: 
-  - "alkohol"
-  - "bezpieczenstwo-ruchu-drogowego"
-  - "brd"
-  - "motoryzacja"
-  - "piesi"
-  - "pijani"
-  - "projektowanie-drog"
+title: O pijanych kierowcach z zupełnie innej beczki. Jeszcze raz.
+date: 2015-10-31
+categories:
+  - wszystko
+tags:
+  - alkohol
+  - bezpieczenstwo-ruchu-drogowego
+  - brd
+  - motoryzacja
+  - piesi
+  - pijani
+  - projektowanie-drog
+slug: pijanych-kierowcach-zupelnie-innej-beczki-jeszcze-raz
 ---
 
 Bezpieczeństwo w ruchu drogowym to temat, który obrósł w Polsce różnymi mitami. Jednym z problemów, które są przedstawione w mediach w sposób nieadekwatny, jest wpływ alkoholu na![](resources/drunkdriving1469251_250x250.jpg) prowadzących pojazdy. Skala interwencji i doniesień medialnych sprawia, że pijani kierowcy są wymieniani jako jedna z najczęstszych przyczyn wypadków drogowych w Polsce. Jednak tak nie jest.

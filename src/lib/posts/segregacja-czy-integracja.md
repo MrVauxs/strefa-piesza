@@ -1,14 +1,15 @@
 ---
 title: Segregacja czy integracja?
-date: "2015-02-11"
+date: 2015-02-11
 tags:
-  - "bezpieczenstwo"
-  - "dzieci"
-  - "integracja"
-  - "piesi"
-  - "segregacja"
-  - "shared-space"
-  - "zoliborz"
+  - bezpieczenstwo
+  - dzieci
+  - integracja
+  - piesi
+  - segregacja
+  - shared-space
+  - zoliborz
+slug: segregacja-czy-integracja
 ---
 
 Na warszawskim Żoliborzu postawiono ostatnio szkaradny labirynt barierek przed przedszkolem. Choć celem prawdopodobnie było zapewnienie bezpieczeństwa dzieciom, to efekt ten raczej nie będzie osiągnięty – przejście jest niewygodne, bardzo wąskie, przeciskając się w tłoku porannym łatwo będzie rozedrzeć ubranie o ostre końcówki barierek Dodatkowo, cześć dzieci i rodziców widząc tłok prawdopodobnie i tak będzie przechodzić jezdnią.

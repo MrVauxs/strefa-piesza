@@ -1,8 +1,9 @@
 ---
-title: "Już my was ochronimy"
-date: "2014-08-29"
-categories: 
-  - "wszystko"
+title: Już my was ochronimy
+date: 2014-08-29
+categories:
+  - wszystko
+slug: juz-ochronimy
 ---
 
 Krajowa Rada Bezpieczeństwa Ruchu Drogowego (KRBRD) stworzyła dokument, w którym przedstawia plany działania na rzecz poprawy bezpieczeństwa w ruchu drogowym na lata 2013-2020. Tym razem zamiast ogółów i deklaracji dobrych chęci, eksperci od bezpieczeństwa postanowili umieścić jakieś mierzalne cele. W związku z tym, wśród priorytetowych działań państwa na pierwszym miejscu umieszczono działanie: "Aktywizacja działań Policji w celu poprawy bezpieczeństwa niechronionych uczestników ruchu drogowego, zwłaszcza pieszych"

@@ -1,14 +1,15 @@
 ---
-title: "Uwaga! Nowe zadanie!"
-date: "2015-03-12"
-categories: 
-  - "wszystko"
-tags: 
-  - "brd"
-  - "pierwszenstwo-pieszych"
-  - "piesi"
-  - "think"
-  - "uwaga"
+title: Uwaga! Nowe zadanie!
+date: 2015-03-12
+categories:
+  - wszystko
+tags:
+  - brd
+  - pierwszenstwo-pieszych
+  - piesi
+  - think
+  - uwaga
+slug: uwaga-nowe-zadanie
 ---
 
 W relacjach kierowców, którzy potrącili pieszego, bardzo często możemy spotkać się z prostym i – jakże denerwującym - usprawiedliwianiem „panie policjancie, ale ja go nie widziałem”. Wiele osób wtedy wzrusza ramionami, część osób się oburza. Warto jednak zastanowić się, czy te słowa kierowców są tylko wymówką, czy może jednak coś w tym jest? Zobaczcie krótką, jednominutową reklamę społeczną z brytyjskiej kampanii „Think”, która bardzo dobrze pokazuje mechanizmy związane z uwagą.
@@ -28,7 +29,7 @@ Polskie przepisy dotyczące pierwszeństwa na przejściu są niejasne. A ich int
 Konieczna jest zatem zmiana podejścia.
 
 1. Należy zmienić przepisy tak, aby była całkowita jasność – pieszy zbliżający się do przejścia ma pierwszeństwo przed kierowcą. I nie ma mowy o żadnym wtargnięciu na przejście.
-2. Przed wprowadzeniem tego przepisu warto przeprowadzić kampanię społeczną informującą o zmianie przepisów. Ale dobrze byłoby też pokazać, że **kierowcy dojeżdżając do przejścia, będą musieli uważnie obserwować OKOLICE przejścia i poszukać wzrokiem pieszych. TO DLA WIELU BĘDZIE NOWE ZADANIE.  
+2. Przed wprowadzeniem tego przepisu warto przeprowadzić kampanię społeczną informującą o zmianie przepisów. Ale dobrze byłoby też pokazać, że **kierowcy dojeżdżając do przejścia, będą musieli uważnie obserwować OKOLICE przejścia i poszukać wzrokiem pieszych. TO DLA WIELU BĘDZIE NOWE ZADANIE.
     **
 
 Trzeba będzie zwrócić uwagę, że nie jest możliwe rozpędzanie się w mieście do prędkości 70-80 km/h i jednocześnie przestrzeganie tego przepisu. Przy takiej prędkości pole widzenia jest już bardzo wąskie i nie będzie możliwości bezpiecznego zatrzymania pojazdu w momencie dostrzeżenia pieszego zbliżającego się do przejścia. 

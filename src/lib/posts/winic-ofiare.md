@@ -1,12 +1,13 @@
 ---
 title: Winić ofiarę?
-date: "2013-06-27"
+date: 2013-06-27
 slug: winic-ofiare
+preview: 2019/03/winapieszego_550.png
 tags:
-  - "brd"
-  - "pieszy"
-  - "przejscie-dla-pieszych"
-  - "statystyki-policyjne"
+  - brd
+  - pieszy
+  - przejscie-dla-pieszych
+  - statystyki-policyjne
 ---
 Policja udostępnia na swojej stronie statystyki wypadków w ruchu drogowym. Według nich w 2012 roku w Polsce zginęło **1152** pieszych, a **9548** zostało rannych. Liczby te budzą grozę, ale zostawmy je na razie i przyjrzymy się dokładniej sprawcom wypadków.
 
