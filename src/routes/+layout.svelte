@@ -9,7 +9,7 @@
 
 <Modal />
 
-<AppShell>
+<AppShell regionPage="hide-scrollbar">
 	<svelte:fragment slot="pageHeader">
 		<div class="bg-[url('/banner.webp')] w-full bg-cover shadow-xl mb-2 h-24 md:h-48 lg:h-96">
 			<div class="bg-gradient-to-r from-surface-800 from-15% to-transparent h-full">
