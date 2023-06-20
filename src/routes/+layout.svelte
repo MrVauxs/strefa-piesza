@@ -11,7 +11,7 @@
 
 <AppShell>
 	<svelte:fragment slot="pageHeader">
-		<div class="bg-[url('banner.webp')] w-full bg-cover shadow-xl mb-2">
+		<div class="bg-[url('/banner.webp')] w-full bg-cover shadow-xl mb-2">
 			<div class="bg-gradient-to-r from-surface-800 from-15% to-transparent">
 				<AppBar class="container" background="">
 					<svelte:fragment slot="lead">
