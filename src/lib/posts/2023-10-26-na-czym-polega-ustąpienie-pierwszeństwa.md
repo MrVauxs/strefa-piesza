@@ -16,6 +16,7 @@ Wszystkie istotne informacje o tym jak ustępować pierwszeństwa gdy krzyżują
 
 UWAGA:
 > Art. 2
+>
 > 23) ustąpienie pierwszeństwa - powstrzymanie się od ruchu, jeżeli ruch mógłby zmusić innego kierującego do zmiany kierunku lub pasa ruchu albo istotnej zmiany prędkości, a pieszego - do zatrzymania się, zwolnienia lub przyspieszenia kroku;
 
 Czy w przypadku samochodu zbliżającego się do skrzyżowania kierowcy też mają takie problemy z oceną? Czy trzeba zwolnić czy nawet się zatrzymać? A może zdążycie przejechać, bo kierowca jedzie bardzo powoli? Tak samo trzeba postępować z pieszym. Pojęcie ustępowania pierwszeństwa dotyczy przecinania się kierunków ruchu. Tutaj pieszy zbliża się do przejścia - jeśli kierowca wymusza na nim zatrzymanie się lub zwolnienie kroku, tzn. że wymusił na pieszym pierwszeństwo.
