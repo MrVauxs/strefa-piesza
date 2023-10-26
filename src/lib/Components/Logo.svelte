@@ -2,7 +2,9 @@
 	const string = 'Strefa Piesza';
 </script>
 
-<div class="wavy block break-words whitespace-normal text-surface-700-200-token">
+<div
+	class="wavy block break-words whitespace-normal text-surface-700-200-token hover:animate-pulse"
+>
 	{#each string.split('') as letter, i}
 		<span style="--i:{i + 1}">{letter}</span>
 	{/each}
