@@ -14,8 +14,6 @@ slug: zapomniana-inicjatywa-zarzadu-drog-miejskich
 
 ![](https://strefapiesza.files.wordpress.com/2019/03/przejscie222.jpg?w=222)
 
-D-6
-
 Mijają 3 lata od publikacji warszawskiego Zarządu Dróg Miejskich pt. „Chrońmy pieszych”. Pierwotnie ZDM opublikował ją [tu](http://www.zdm.waw.pl/informacje/wiadomosci/wiadomosci/back/1/article/chronmy-pieszych.html): niestety w tej chwili link prowadzi do innych informacji.  Oto co ciekawego znalazło się w tej publikacji:
 
 >  **_Chrońmy pieszych_**
@@ -54,7 +52,7 @@ Ta bardzo cenna inicjatywa niestety przeszła bez większego echa. Takich zmian 
 
 Jak powinny zatem wyglądać zapisy dotyczące pierwszeństwa pieszych na przejściach w Prawie o Ruchu Drogowym?
 
-> _Po pierwsze należy zmienić__:_
+> _Po pierwsze należy zmienić:_
 >
 > **_art.13 \[Przechodzenie przez jezdnię\] ust.1_**
 >

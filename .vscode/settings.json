@@ -13,13 +13,19 @@
 		"+page.svelte": "+page.ts, +page.js, +page.server.ts, +page.server.js",
 		"+layout.svelte": "+layout.ts, +layout.js, +layout.server.ts, +layout.server.js"
 	},
-	"eslint.validate": ["javascript", "javascriptreact", "svelte"],
+	"eslint.validate": [
+		"javascript",
+		"javascriptreact",
+		"svelte"
+	],
 	"editor.formatOnType": false,
 	"editor.formatOnPaste": true,
 	"editor.formatOnSaveMode": "file",
 	"files.autoSave": "onFocusChange",
 	"editor.formatOnSave": true,
-	"prettier.documentSelectors": ["**/*.svelte"],
+	"prettier.documentSelectors": [
+		"**/*.svelte"
+	],
 	"tailwindCSS.classAttributes": [
 		"class",
 		"accent",
@@ -119,5 +125,6 @@
 		"track",
 		"width",
 		"zIndex"
-	]
+	],
+	"[markdown]": {}
 }
