@@ -1,15 +1,15 @@
 <script>
-	let string = 'Strefa Piesza';
+	const string = 'Strefa Piesza';
 </script>
 
-<div class="waviy">
+<div class="wavy block break-words whitespace-normal text-surface-700-200-token">
 	{#each string.split('') as letter, i}
 		<span style="--i:{i + 1}">{letter}</span>
 	{/each}
 </div>
 
 <style lang="scss">
-	.waviy span {
+	.wavy span {
 		white-space: pre-wrap;
 		display: inline-block;
 		animation: flip 8s infinite;

@@ -11,8 +11,10 @@
 
 <AppShell regionPage="hide-scrollbar">
 	<svelte:fragment slot="pageHeader">
-		<div class="bg-[url('/banner.webp')] w-full bg-cover shadow-xl mb-2 h-24 md:h-48 lg:h-96">
-			<div class="bg-gradient-to-r from-surface-800 from-15% to-transparent h-full">
+		<div class="bg-[url('/banner.webp')] w-full bg-cover shadow-xl mb-2 h-24 md:h-48 lg:h-56">
+			<div
+				class="bg-gradient-to-r dark:from-surface-800 from-surface-200 from-15% to-transparent h-full"
+			>
 				<AppBar class="container h-full flex justify-center" background="">
 					<svelte:fragment slot="lead">
 						<a href="/">
